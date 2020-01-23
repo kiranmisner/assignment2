@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Assignment 2: HTML Practice </title>
+</head>
+<body>
+<h1> Name: Kiran Misner </h1>
+<br> Major: Computer Science 
+<br> IP Address: 130.64.25.58 
+<br> Hometown: Palo Alto, CA 
+<br> Something no one would expect about me: I have a twin brother! 
+<br> <img src="https://i.ibb.co/F0DStnL/IMG-1730.jpg" alt="Kiran Grad">
+</body>
+</html>
